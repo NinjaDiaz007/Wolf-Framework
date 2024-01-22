@@ -7,3 +7,10 @@ Con este framework ayudara a tener un estilo diferente a nuestra pagina para ver
 Se a&#241;adio los siguientes componentes
 - El ancho de la pantalla.
 - Se a&#241;adio las columnas para la pagina paresido a los grid.
+
+# Verci&#243;n 1.3
+Se a&#241;adio los siguientes componentes
+- Los diferentes tipos de margen de arriba, abajo, izuierda y derecha.
+- Se normalizaron algunas de las etiquetas mas utilizadas de HTML.
+- Se acomodaron las columnas del **grid** para que sean responsig.
+- Se cambio el color de todas las clases que tengan como referncia "primary".
